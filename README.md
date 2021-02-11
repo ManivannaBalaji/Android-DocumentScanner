@@ -9,3 +9,15 @@ Features
 5) Export document to JPEG or PDF files
 
 Screenshots
+<br>
+<img width="200px" height="400px" src="screenshots/screenshot2.png">
+<img width="200px" height="400px" src="screenshots/screenshot4.png">
+<img width="200px" height="400px" src="screenshots/screenshot5.png">
+<br>
+<img width="200px" height="400px" src="screenshots/screenshot7.png">
+<img width="200px" height="400px" src="screenshots/screenshot9.png">
+<img width="200px" height="400px" src="screenshots/screenshot10.png">
+<br>
+Libraries used
+AndroidScannerDemo
+https://github.com/jhansireddy/AndroidScannerDemo
