@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Doc Scanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="fab_camera">Camera</string>
+    <string name="fab_gallery">Gallery</string>
+    <string name="title_activity_list_images">ListImages</string>
+    <string name="title_activity_show_image">ShowImage</string>
+</resources>
